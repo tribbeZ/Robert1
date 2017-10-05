@@ -10,6 +10,8 @@ namespace Ovn16Demo
     {
         static void Main(string[] args)
         {
+            //Hej!!!
+
             Person person1 = new Person("Håkan", "Johansson");
 
             person1.details.Add(new Email("Hem", "hakan@abc.com"));
