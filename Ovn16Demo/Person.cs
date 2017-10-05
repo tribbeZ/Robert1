@@ -8,6 +8,7 @@ namespace Ovn16Demo
 {
     class Person
     {
+        //Kim 
         public string firstName;
         public string lastName;
         public List<ContactDetails> details = new List<ContactDetails>();
